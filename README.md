@@ -83,7 +83,7 @@ Make sure **CORS** is set up properly.
 
 When you update your HTML, CSS, or JS and upload to S3, CloudFront might still serve old cached files.
 
-## CloudFront Invalidation (Console)
+## CloudFront Invalidation (Console)  
 
 1. Go to **CloudFront → your distribution → Invalidations → Create invalidation**  
 2. Enter:
