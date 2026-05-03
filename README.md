@@ -1,10 +1,4 @@
-# 🎉 Event RSVP – AWS Full-Stack Tutorial
 
-A simple AWS-powered app that lists events, shows details & stats, and accepts RSVPs.  
-
-Watch Full Tutorial Here:
-
----
 
 ## 🧱 Architecture Overview
 
